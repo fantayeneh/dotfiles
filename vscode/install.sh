@@ -18,7 +18,7 @@ EditorConfig.EditorConfig
 HookyQR.beautify
 PeterJausovec.vscode-docker
 be5invis.toml
-caarlos0.language-prometheus
+fantayeneh.language-prometheus
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
